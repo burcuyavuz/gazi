@@ -1,1 +1,4 @@
 # gazi
+merhaba
+naber
+nasılsın 
